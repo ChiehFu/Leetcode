@@ -776,6 +776,8 @@
 
 [911. Online Election.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/911.%20Online%20Election.md)
 
+[918. Maximum Sum Circular Subarray.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/918.%20Maximum%20Sum%20Circular%20Subarray.md)
+
 [923. 3Sum With Multiplicity.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/923.%203Sum%20With%20Multiplicity.md)
 
 [924. Minimize Malware Spread.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/924.%20Minimize%20Malware%20Spread.md)
@@ -956,7 +958,7 @@
 
 [Smallest Number that is not a Sum of a Subset of List.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/Smallest%20Number%20that%20is%20not%20a%20Sum%20of%20a%20Subset%20of%20List.md)
 
-[ Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/%20Check%20If%20a%20String%20Is%20a%20Valid%20Sequence%20from%20Root%20to%20Leaves%20Path%20in%20a%20Binary%20Tree.md)
+[Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/Check%20If%20a%20String%20Is%20a%20Valid%20Sequence%20from%20Root%20to%20Leaves%20Path%20in%20a%20Binary%20Tree.md)
 
 [Perform String Shifts.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/Perform%20String%20Shifts.md)
 
