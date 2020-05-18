@@ -728,6 +728,8 @@
 
 [811. Subdomain Visit Count.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/811.%20Subdomain%20Visit%20Count.md)
 
+[814. Binary Tree Pruning.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/814.%20Binary%20Tree%20Pruning.md)
+
 [819. Most Common Word.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/819.%20Most%20Common%20Word.md)
 
 [823. Binary Trees With Factors.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/823.%20Binary%20Trees%20With%20Factors.md)
@@ -945,6 +947,8 @@
 [1234. Replace the Substring for Balanced String.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/1234.%20Replace%20the%20Substring%20for%20Balanced%20String.md)
 
 [1248. Count Number of Nice Subarrays.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/1248.%20Count%20Number%20of%20Nice%20Subarrays.md)
+
+[1310. XOR Queries of a Subarray.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/1310.%20XOR%20Queries%20of%20a%20Subarray.md)
 
 [1344. Angle Between Hands of a Clock.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/1344.%20Angle%20Between%20Hands%20of%20a%20Clock.md)
 
