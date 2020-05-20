@@ -918,6 +918,8 @@
 
 [1128. Number of Equivalent Domino Pairs.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/1128.%20Number%20of%20Equivalent%20Domino%20Pairs.md)
 
+[1130. Minimum Cost Tree From Leaf Values.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/1130.%20Minimum%20Cost%20Tree%20From%20Leaf%20Values.md)
+
 [1138. Alphabet Board Path.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/1138.%20Alphabet%20Board%20Path.md)
 
 [1139. Largest 1-Bordered Square.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/1139.%20Largest%201-Bordered%20Square.md)
