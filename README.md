@@ -952,6 +952,8 @@
 
 [1248. Count Number of Nice Subarrays.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/1248.%20Count%20Number%20of%20Nice%20Subarrays.md)
 
+[1277. Count Square Submatrices with All Ones.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/1277.%20Count%20Square%20Submatrices%20with%20All%20Ones.md)
+
 [1310. XOR Queries of a Subarray.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/1310.%20XOR%20Queries%20of%20a%20Subarray.md)
 
 [1344. Angle Between Hands of a Clock.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/1344.%20Angle%20Between%20Hands%20of%20a%20Clock.md)
