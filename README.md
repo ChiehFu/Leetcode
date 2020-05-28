@@ -764,6 +764,8 @@
 
 [875. Koko Eating Bananas.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/875.%20Koko%20Eating%20Bananas.md)
 
+[886. Possible Bipartition.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/886.%20Possible%20Bipartition.md)
+
 [887. Super Egg Drop.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/887.%20Super%20Egg%20Drop.md)
 
 [889. Construct Binary Tree from Preorder and Postorder Traversal.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/889.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal.md)
