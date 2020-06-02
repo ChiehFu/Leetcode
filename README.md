@@ -442,6 +442,8 @@
 
 [336. Palindrome Pairs.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/336.%20Palindrome%20Pairs.md)
 
+[338. Counting Bits.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/338.%20Counting%20Bits.md)
+
 [340. Longest Substring with At Most K Distinct Characters.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/340.%20Longest%20Substring%20with%20At%20Most%20K%20Distinct%20Characters.md)
 
 [341. Flatten Nested List Iterator.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/341.%20Flatten%20Nested%20List%20Iterator.md)
