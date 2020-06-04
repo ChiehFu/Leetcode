@@ -868,6 +868,8 @@
 
 [1027. Longest Arithmetic Sequence.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/1027.%20Longest%20Arithmetic%20Sequence.md)
 
+[1029. Two City Scheduling.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/1029.%20Two%20City%20Scheduling.md)
+
 [1031. Maximum Sum of Two Non-Overlapping Subarrays.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/1031.%20Maximum%20Sum%20of%20Two%20Non-Overlapping%20Subarrays.md)
 
 [1032. Stream of Characters.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/1032.%20Stream%20of%20Characters.md)
