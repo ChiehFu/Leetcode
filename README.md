@@ -326,6 +326,8 @@
 
 [230. Kth Smallest Element in a BST.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md)
 
+[231. Power of Two.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/231.%20Power%20of%20Two.md)
+
 [232. Implement Queue using Stacks.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/232.%20Implement%20Queue%20using%20Stacks.md)
 
 [234. Palindrome Linked List.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/234.%20Palindrome%20Linked%20List.md)
