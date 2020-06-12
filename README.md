@@ -500,6 +500,8 @@
 
 [388. Longest Absolute File Path.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/388.%20Longest%20Absolute%20File%20Path.md)
 
+[392. Is Subsequence.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/392.%20Is%20Subsequence.md)
+
 [394. Decode String.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/394.%20Decode%20String.md)
 
 [395. Longest Substring with At Least K Repeating Characters.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/395.%20Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters.md)
@@ -723,6 +725,8 @@
 [788. Rotated Digits.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/788.%20Rotated%20Digits.md)
 
 [791. Custom Sort String.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/791.%20Custom%20Sort%20String.md)
+
+[792. Number of Matching Subsequences.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/792.%20Number%20of%20Matching%20Subsequences.md)
 
 [794. Valid Tic-Tac-Toe State.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/794.%20Valid%20Tic-Tac-Toe%20State.md)
 
