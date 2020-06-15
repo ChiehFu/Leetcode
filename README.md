@@ -480,6 +480,8 @@
 
 [367. Valid Perfect Square.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/367.%20Valid%20Perfect%20Square.md)
 
+[368. Largest Divisible Subset.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/368.%20Largest%20Divisible%20Subset.md)
+
 [373. Find K Pairs with Smallest Sums.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/373.%20Find%20K%20Pairs%20with%20Smallest%20Sums.md)
 
 [378. Kth Smallest Element in a Sorted Matrix.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.md)
@@ -661,6 +663,8 @@
 [695. Max Area of Island.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/695.%20Max%20Area%20of%20Island.md)
 
 [698. Partition to K Equal Sum Subsets.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/698.%20Partition%20to%20K%20Equal%20Sum%20Subsets.md)
+
+[700. Search in a Binary Search Tree.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/700.%20Search%20in%20a%20Binary%20Search%20Tree.md)
 
 [701. Insert into a Binary Search Tree.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/701.%20Insert%20into%20a%20Binary%20Search%20Tree.md)
 
