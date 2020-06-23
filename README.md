@@ -212,6 +212,8 @@
 
 [133. Clone Graph.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/133.%20Clone%20Graph.md)
 
+[136. Single Number.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/136.%20Single%20Number.md)
+
 [137. Single Number II.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/137.%20Single%20Number%20II.md)
 
 [138. Copy List with Random Pointer.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/138.%20Copy%20List%20with%20Random%20Pointer.md)
@@ -363,6 +365,8 @@
 [257. Binary Tree Paths.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/257.%20Binary%20Tree%20Paths.md)
 
 [259. 3Sum Smaller.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/259.%203Sum%20Smaller.md)
+
+[260. Single Number III.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/260.%20Single%20Number%20III.md)
 
 [261. Graph Valid Tree.md](https://github.com/ChiehFu/leetcode/tree/master/solutions/261.%20Graph%20Valid%20Tree.md)
 
